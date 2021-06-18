@@ -18,8 +18,11 @@ INFO:
 _______________________________________________________________________________________________________________________________
 AuthServer Progress:
                       2% Connecting to the channel.
+                      
 CharServer Progress:
+
                       
 CommunityServer Progress:
+
 
 WorldServer Progress:
